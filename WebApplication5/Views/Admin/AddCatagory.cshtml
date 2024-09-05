@@ -1,0 +1,58 @@
+﻿@using WebApplication5.Models.Entities
+@* @model List<WebApplication5.Models.Entities.Catagory>
+ *@
+@{
+    ViewData["Title"] = "Catagory";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    var cataList = ViewData["Catagories"] as IList<Catagory>;
+}
+@model WebApplication5.Models.CatagoryViewModel
+<div class="row">
+   <div class="col-3">
+        <br /><br />
+        <h1>@ViewData["Title"]</h1><br />
+        <section>
+            <form method="post">
+              
+                <div class="mb-3">
+                    <label class="form-label">Catagory Name</label>
+                   <input type="text" value="@Model.CatagoryName" class="form-control" asp-for="CatagoryName" />
+                    <span asp-validation-for="@Model.CatagoryName" class="text-danger"></span>
+                   <input type="hidden" value="@Model.CatagoryId" class="form-control" asp-for="CatagoryId" />
+                </div>
+          
+                <div>
+                    <button id="login-submit" type="submit" class="w-100 btn btn-lg btn-primary">ADD</button>
+                </div>
+            </form>
+        </section>
+    </div>
+    <div class="col-7">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Catagory Name</th>
+                    <th></th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var catagory in cataList)
+                {
+                 
+                    <tr>
+                        <td>@catagory.CatagoryName</td>
+                        <td><a class="btn btn-success" asp-action="AddCatagory" asp-controller="Admin" asp-route-CatagoryId="@catagory.CatagoryId">Edit</a></td>
+                        <td><a class="btn btn-success" asp-action="DeleteCatagory" asp-controller="Admin" asp-route-CatagoryId="@catagory.CatagoryId">Delete</a></td>
+                    </tr>
+                   
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+
+

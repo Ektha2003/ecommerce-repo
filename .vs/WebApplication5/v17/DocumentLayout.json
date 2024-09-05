@@ -1,0 +1,925 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Office project\\WebApplication5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|e:\\office project\\webapplication5\\webapplication5\\views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|e:\\office project\\webapplication5\\webapplication5\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|e:\\office project\\webapplication5\\webapplication5\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|e:\\office project\\webapplication5\\webapplication5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|e:\\office project\\webapplication5\\webapplication5\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|e:\\office project\\webapplication5\\webapplication5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|e:\\office project\\webapplication5\\webapplication5\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|e:\\office project\\webapplication5\\webapplication5\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|e:\\office project\\webapplication5\\webapplication5\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|e:\\office project\\webapplication5\\webapplication5\\models\\catagoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\models\\catagoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|e:\\office project\\webapplication5\\webapplication5\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|e:\\office project\\webapplication5\\webapplication5\\areas\\identity\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\areas\\identity\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|e:\\office project\\webapplication5\\webapplication5\\services\\localstorageservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\services\\localstorageservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|e:\\office project\\webapplication5\\webapplication5\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|e:\\office project\\webapplication5\\webapplication5\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|e:\\office project\\webapplication5\\webapplication5\\models\\entities\\catagory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\models\\entities\\catagory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|e:\\office project\\webapplication5\\webapplication5\\models\\cartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\models\\cartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|e:\\office project\\webapplication5\\webapplication5\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|e:\\office project\\webapplication5\\webapplication5\\views\\admin\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\views\\admin\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|e:\\office project\\webapplication5\\webapplication5\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|e:\\office project\\webapplication5\\webapplication5\\areas\\identity\\pages\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\areas\\identity\\pages\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|e:\\office project\\webapplication5\\webapplication5\\views\\admin\\addcatagory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\views\\admin\\addcatagory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|e:\\office project\\webapplication5\\webapplication5\\views\\admin\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\views\\admin\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/WebApplication5/True/SqlTable/dbo.Products.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|e:\\office project\\webapplication5\\webapplication5\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|e:\\office project\\webapplication5\\webapplication5\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/WebApplication5/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|e:\\office project\\webapplication5\\webapplication5\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|e:\\office project\\webapplication5\\webapplication5\\views\\home\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\views\\home\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|e:\\office project\\webapplication5\\webapplication5\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|e:\\office project\\webapplication5\\webapplication5\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/WebApplication5/True/SqlTable/dbo.Catagories.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|e:\\office project\\webapplication5\\webapplication5\\views\\home\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\views\\home\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|e:\\office project\\webapplication5\\webapplication5\\views\\home\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\views\\home\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/WebApplication5/True/SqlTable/dbo.ShoppingCarts.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|e:\\office project\\webapplication5\\webapplication5\\models\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\models\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|e:\\office project\\webapplication5\\webapplication5\\models\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\models\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|e:\\office project\\webapplication5\\webapplication5\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|e:\\office project\\webapplication5\\webapplication5\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|e:\\office project\\webapplication5\\webapplication5\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|e:\\office project\\webapplication5\\webapplication5\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|e:\\office project\\webapplication5\\webapplication5\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|e:\\office project\\webapplication5\\webapplication5\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|e:\\office project\\webapplication5\\webapplication5\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|e:\\office project\\webapplication5\\webapplication5\\areas\\identity\\pages\\_authorlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\areas\\identity\\pages\\_authorlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|e:\\office project\\webapplication5\\webapplication5\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|e:\\office project\\webapplication5\\webapplication5\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|e:\\office project\\webapplication5\\webapplication5\\migrations\\20240821105032_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\migrations\\20240821105032_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\source\\repos\\WebApplication5\\WebApplication5\\Models\\Entities\\ShoppingCartItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\source\\repos\\WebApplication5\\WebApplication5\\Data\\Cart\\ShoppingCart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\source\\repos\\WebApplication5\\WebApplication5\\Migrations\\20240820055158_fivth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\source\\repos\\WebApplication5\\WebApplication5\\Migrations\\20240820055506_sixth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\source\\repos\\WebApplication5\\WebApplication5\\Migrations\\20240812095938_removeTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\source\\repos\\WebApplication5\\WebApplication5\\Migrations\\20240812100038_addTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\source\\repos\\WebApplication5\\WebApplication5\\Migrations\\20240812054830_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\source\\repos\\WebApplication5\\WebApplication5\\Migrations\\20240812063405_forth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\source\\repos\\WebApplication5\\WebApplication5\\Migrations\\20240809103500_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\source\\repos\\WebApplication5\\WebApplication5\\Migrations\\20240809103500_first.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|e:\\office project\\webapplication5\\webapplication5\\migrations\\20240822060011_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C44C846-DCF1-4D06-A191-761C01DE75D4}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\migrations\\20240822060011_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Office project\\WebApplication5\\WebApplication5\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication5\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Office project\\WebApplication5\\WebApplication5\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication5\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAACYBAAAAAAAAAAAAADgBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T09:49:09.022Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CartViewModel.cs",
+              "DocumentMoniker": "E:\\Office project\\WebApplication5\\WebApplication5\\Models\\CartViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Models\\CartViewModel.cs",
+              "ToolTip": "E:\\Office project\\WebApplication5\\WebApplication5\\Models\\CartViewModel.cs",
+              "RelativeToolTip": "WebApplication5\\Models\\CartViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T05:35:53.857Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "E:\\Office project\\WebApplication5\\WebApplication5\\Views\\Home\\Cart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication5\\Views\\Home\\Cart.cshtml",
+              "ToolTip": "E:\\Office project\\WebApplication5\\WebApplication5\\Views\\Home\\Cart.cshtml",
+              "RelativeToolTip": "WebApplication5\\Views\\Home\\Cart.cshtml",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAAALEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T07:20:06.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Office project\\WebApplication5\\WebApplication5\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication5\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Office project\\WebApplication5\\WebApplication5\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication5\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-24T09:04:55.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "E:\\Office project\\WebApplication5\\WebApplication5\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "E:\\Office project\\WebApplication5\\WebApplication5\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "WebApplication5\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAqwJsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:50:39.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Office project\\WebApplication5\\WebApplication5\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Program.cs",
+              "ToolTip": "E:\\Office project\\WebApplication5\\WebApplication5\\Program.cs",
+              "RelativeToolTip": "WebApplication5\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:57:50.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Office project\\WebApplication5\\WebApplication5\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication5\\appsettings.json",
+              "ToolTip": "E:\\Office project\\WebApplication5\\WebApplication5\\appsettings.json",
+              "RelativeToolTip": "WebApplication5\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-09T04:55:02.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Office project\\WebApplication5\\WebApplication5\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Office project\\WebApplication5\\WebApplication5\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication5\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAPYAAAAAAAAAAAAiwHUBAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T09:48:53.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "E:\\Office project\\WebApplication5\\WebApplication5\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "WebApplication5\\Properties\\serviceDependencies.json",
+              "ToolTip": "E:\\Office project\\WebApplication5\\WebApplication5\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "WebApplication5\\Properties\\serviceDependencies.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-30T10:53:22.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CatagoryViewModel.cs",
+              "DocumentMoniker": "E:\\Office project\\WebApplication5\\WebApplication5\\Models\\CatagoryViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Models\\CatagoryViewModel.cs",
+              "ToolTip": "E:\\Office project\\WebApplication5\\WebApplication5\\Models\\CatagoryViewModel.cs",
+              "RelativeToolTip": "WebApplication5\\Models\\CatagoryViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T09:20:27.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "E:\\Office project\\WebApplication5\\WebApplication5\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Controllers\\AdminController.cs",
+              "ToolTip": "E:\\Office project\\WebApplication5\\WebApplication5\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "WebApplication5\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAswHUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T05:14:26.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\Office project\\WebApplication5\\WebApplication5\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApplication5\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "E:\\Office project\\WebApplication5\\WebApplication5\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "WebApplication5\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T11:50:06.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "E:\\Office project\\WebApplication5\\WebApplication5\\Areas\\Identity\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Areas\\Identity\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "E:\\Office project\\WebApplication5\\WebApplication5\\Areas\\Identity\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "WebApplication5\\Areas\\Identity\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T12:06:39.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LocalstorageServices.cs",
+              "DocumentMoniker": "E:\\Office project\\WebApplication5\\WebApplication5\\Services\\LocalstorageServices.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Services\\LocalstorageServices.cs",
+              "ToolTip": "E:\\Office project\\WebApplication5\\WebApplication5\\Services\\LocalstorageServices.cs",
+              "RelativeToolTip": "WebApplication5\\Services\\LocalstorageServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:48:40.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "E:\\Office project\\WebApplication5\\WebApplication5\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "WebApplication5\\ScaffoldingReadMe.txt",
+              "ToolTip": "E:\\Office project\\WebApplication5\\WebApplication5\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "WebApplication5\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-27T07:54:34.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Office project\\WebApplication5\\WebApplication5\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication5\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Office project\\WebApplication5\\WebApplication5\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication5\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAANMAAAAAAAAAAAAAANcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T09:25:36.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Catagory.cs",
+              "DocumentMoniker": "E:\\Office project\\WebApplication5\\WebApplication5\\Models\\Entities\\Catagory.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Models\\Entities\\Catagory.cs",
+              "ToolTip": "E:\\Office project\\WebApplication5\\WebApplication5\\Models\\Entities\\Catagory.cs",
+              "RelativeToolTip": "WebApplication5\\Models\\Entities\\Catagory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T06:07:45.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\Office project\\WebApplication5\\WebApplication5\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\Office project\\WebApplication5\\WebApplication5\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebApplication5\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T06:39:46.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddProduct.cshtml",
+              "DocumentMoniker": "E:\\Office project\\WebApplication5\\WebApplication5\\Views\\Admin\\AddProduct.cshtml",
+              "RelativeDocumentMoniker": "WebApplication5\\Views\\Admin\\AddProduct.cshtml",
+              "ToolTip": "E:\\Office project\\WebApplication5\\WebApplication5\\Views\\Admin\\AddProduct.cshtml",
+              "RelativeToolTip": "WebApplication5\\Views\\Admin\\AddProduct.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADcAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T08:42:17.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "E:\\Office project\\WebApplication5\\WebApplication5\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication5\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "E:\\Office project\\WebApplication5\\WebApplication5\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "WebApplication5\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T07:15:42.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "E:\\Office project\\WebApplication5\\WebApplication5\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "WebApplication5\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "ToolTip": "E:\\Office project\\WebApplication5\\WebApplication5\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "WebApplication5\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T06:26:24.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddCatagory.cshtml",
+              "DocumentMoniker": "E:\\Office project\\WebApplication5\\WebApplication5\\Views\\Admin\\AddCatagory.cshtml",
+              "RelativeDocumentMoniker": "WebApplication5\\Views\\Admin\\AddCatagory.cshtml",
+              "ToolTip": "E:\\Office project\\WebApplication5\\WebApplication5\\Views\\Admin\\AddCatagory.cshtml",
+              "RelativeToolTip": "WebApplication5\\Views\\Admin\\AddCatagory.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T10:15:34.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "dbo.Products.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/WebApplication5/True/SqlTable/dbo.Products.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/WebApplication5/True/SqlTable/dbo.Products.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-14T07:39:26.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "E:\\Office project\\WebApplication5\\WebApplication5\\Views\\Admin\\Admin.cshtml",
+              "RelativeDocumentMoniker": "WebApplication5\\Views\\Admin\\Admin.cshtml",
+              "ToolTip": "E:\\Office project\\WebApplication5\\WebApplication5\\Views\\Admin\\Admin.cshtml",
+              "RelativeToolTip": "WebApplication5\\Views\\Admin\\Admin.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T05:14:46.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "E:\\Office project\\WebApplication5\\WebApplication5\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "E:\\Office project\\WebApplication5\\WebApplication5\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "WebApplication5\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAUwJAAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:27:15.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "E:\\Office project\\WebApplication5\\WebApplication5\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "WebApplication5\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "E:\\Office project\\WebApplication5\\WebApplication5\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "WebApplication5\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T11:48:59.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\Office project\\WebApplication5\\WebApplication5\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "WebApplication5\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "E:\\Office project\\WebApplication5\\WebApplication5\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "WebApplication5\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAAB8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T08:51:58.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "dbo.AspNetUsers.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/WebApplication5/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/WebApplication5/True/SqlTable/dbo.AspNetUsers.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-22T12:01:14.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Shop.cshtml",
+              "DocumentMoniker": "E:\\Office project\\WebApplication5\\WebApplication5\\Views\\Home\\Shop.cshtml",
+              "RelativeDocumentMoniker": "WebApplication5\\Views\\Home\\Shop.cshtml",
+              "ToolTip": "E:\\Office project\\WebApplication5\\WebApplication5\\Views\\Home\\Shop.cshtml",
+              "RelativeToolTip": "WebApplication5\\Views\\Home\\Shop.cshtml",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAAAI4AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T07:17:39.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "E:\\Office project\\WebApplication5\\WebApplication5\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication5\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "E:\\Office project\\WebApplication5\\WebApplication5\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "WebApplication5\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T05:48:39.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\Office project\\WebApplication5\\WebApplication5\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApplication5\\Views\\Home\\Login.cshtml",
+              "ToolTip": "E:\\Office project\\WebApplication5\\WebApplication5\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "WebApplication5\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T11:06:02.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "dbo.Catagories.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/WebApplication5/True/SqlTable/dbo.Catagories.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/WebApplication5/True/SqlTable/dbo.Catagories.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-22T08:58:03.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Registration.cshtml",
+              "DocumentMoniker": "E:\\Office project\\WebApplication5\\WebApplication5\\Views\\Home\\Registration.cshtml",
+              "RelativeDocumentMoniker": "WebApplication5\\Views\\Home\\Registration.cshtml",
+              "ToolTip": "E:\\Office project\\WebApplication5\\WebApplication5\\Views\\Home\\Registration.cshtml",
+              "RelativeToolTip": "WebApplication5\\Views\\Home\\Registration.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T11:06:18.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CheckOut.cshtml",
+              "DocumentMoniker": "E:\\Office project\\WebApplication5\\WebApplication5\\Views\\Home\\CheckOut.cshtml",
+              "RelativeDocumentMoniker": "WebApplication5\\Views\\Home\\CheckOut.cshtml",
+              "ToolTip": "E:\\Office project\\WebApplication5\\WebApplication5\\Views\\Home\\CheckOut.cshtml",
+              "RelativeToolTip": "WebApplication5\\Views\\Home\\CheckOut.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAIAwwG0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T07:20:43.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "dbo.ShoppingCarts.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/WebApplication5/True/SqlTable/dbo.ShoppingCarts.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/WebApplication5/True/SqlTable/dbo.ShoppingCarts.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-21T09:30:43.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20240822060011_second.cs",
+              "DocumentMoniker": "E:\\Office project\\WebApplication5\\WebApplication5\\Migrations\\20240822060011_second.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Migrations\\20240822060011_second.cs",
+              "ToolTip": "E:\\Office project\\WebApplication5\\WebApplication5\\Migrations\\20240822060011_second.cs",
+              "RelativeToolTip": "WebApplication5\\Migrations\\20240822060011_second.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:00:12.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20240821105032_first.cs",
+              "DocumentMoniker": "E:\\Office project\\WebApplication5\\WebApplication5\\Migrations\\20240821105032_first.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Migrations\\20240821105032_first.cs",
+              "ToolTip": "E:\\Office project\\WebApplication5\\WebApplication5\\Migrations\\20240821105032_first.cs",
+              "RelativeToolTip": "WebApplication5\\Migrations\\20240821105032_first.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:50:32.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\Office project\\WebApplication5\\WebApplication5\\Models\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Models\\Entities\\Order.cs",
+              "ToolTip": "E:\\Office project\\WebApplication5\\WebApplication5\\Models\\Entities\\Order.cs",
+              "RelativeToolTip": "WebApplication5\\Models\\Entities\\Order.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAwAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T05:18:28.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "E:\\Office project\\WebApplication5\\WebApplication5\\Models\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Models\\Entities\\OrderItem.cs",
+              "ToolTip": "E:\\Office project\\WebApplication5\\WebApplication5\\Models\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "WebApplication5\\Models\\Entities\\OrderItem.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T05:19:25.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ShoppingCartItem.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WebApplication5\\WebApplication5\\Models\\Entities\\ShoppingCartItem.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WebApplication5\\WebApplication5\\Models\\Entities\\ShoppingCartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T05:19:01.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WebApplication5\\WebApplication5\\Data\\Cart\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WebApplication5\\WebApplication5\\Data\\Cart\\ShoppingCart.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T07:14:26.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20240820055158_fivth.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WebApplication5\\WebApplication5\\Migrations\\20240820055158_fivth.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WebApplication5\\WebApplication5\\Migrations\\20240820055158_fivth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T05:51:59.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20240820055506_sixth.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WebApplication5\\WebApplication5\\Migrations\\20240820055506_sixth.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WebApplication5\\WebApplication5\\Migrations\\20240820055506_sixth.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T05:55:06.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "E:\\Office project\\WebApplication5\\WebApplication5\\Models\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Models\\ProductViewModel.cs",
+              "ToolTip": "E:\\Office project\\WebApplication5\\WebApplication5\\Models\\ProductViewModel.cs",
+              "RelativeToolTip": "WebApplication5\\Models\\ProductViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T10:21:27.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "style.css",
+              "DocumentMoniker": "E:\\Office project\\WebApplication5\\WebApplication5\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "WebApplication5\\wwwroot\\css\\style.css",
+              "ToolTip": "E:\\Office project\\WebApplication5\\WebApplication5\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "WebApplication5\\wwwroot\\css\\style.css",
+              "ViewState": "AQIAAOMBAAAAAAAAAAAnwPMBAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-16T05:27:40.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20240812095938_removeTable.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WebApplication5\\WebApplication5\\Migrations\\20240812095938_removeTable.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WebApplication5\\WebApplication5\\Migrations\\20240812095938_removeTable.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T09:59:38.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20240812100038_addTables.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WebApplication5\\WebApplication5\\Migrations\\20240812100038_addTables.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WebApplication5\\WebApplication5\\Migrations\\20240812100038_addTables.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:00:38.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\Office project\\WebApplication5\\WebApplication5\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication5\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\Office project\\WebApplication5\\WebApplication5\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplication5\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T09:54:32.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20240812054830_third.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WebApplication5\\WebApplication5\\Migrations\\20240812054830_third.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WebApplication5\\WebApplication5\\Migrations\\20240812054830_third.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T05:48:30.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20240812063405_forth.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WebApplication5\\WebApplication5\\Migrations\\20240812063405_forth.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WebApplication5\\WebApplication5\\Migrations\\20240812063405_forth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T06:34:05.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\Office project\\WebApplication5\\WebApplication5\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WebApplication5\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\Office project\\WebApplication5\\WebApplication5\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WebApplication5\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T06:26:39.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "E:\\Office project\\WebApplication5\\WebApplication5\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "WebApplication5\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "E:\\Office project\\WebApplication5\\WebApplication5\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "WebApplication5\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T07:21:12.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20240809103500_first.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WebApplication5\\WebApplication5\\Migrations\\20240809103500_first.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WebApplication5\\WebApplication5\\Migrations\\20240809103500_first.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T10:35:01.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20240809103500_first.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WebApplication5\\WebApplication5\\Migrations\\20240809103500_first.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WebApplication5\\WebApplication5\\Migrations\\20240809103500_first.Designer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIAwwA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T10:40:59.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\Office project\\WebApplication5\\WebApplication5\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApplication5\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "E:\\Office project\\WebApplication5\\WebApplication5\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApplication5\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T06:35:48.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\Office project\\WebApplication5\\WebApplication5\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApplication5\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\Office project\\WebApplication5\\WebApplication5\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApplication5\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T09:54:23.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "E:\\Office project\\WebApplication5\\WebApplication5\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "E:\\Office project\\WebApplication5\\WebApplication5\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "WebApplication5\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwCEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T05:48:43.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "_AuthorLayout.cshtml",
+              "DocumentMoniker": "E:\\Office project\\WebApplication5\\WebApplication5\\Areas\\Identity\\Pages\\_AuthorLayout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication5\\Areas\\Identity\\Pages\\_AuthorLayout.cshtml",
+              "ToolTip": "E:\\Office project\\WebApplication5\\WebApplication5\\Areas\\Identity\\Pages\\_AuthorLayout.cshtml",
+              "RelativeToolTip": "WebApplication5\\Areas\\Identity\\Pages\\_AuthorLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T05:25:21.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\Office project\\WebApplication5\\WebApplication5\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication5\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "E:\\Office project\\WebApplication5\\WebApplication5\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplication5\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T05:25:43.301Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
