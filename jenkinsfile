@@ -39,17 +39,21 @@ pipeline {
         stage('Deploy') {
             steps {
                 script {
-                    def publishDir = "C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\DotNetPipeline\\publish"
-                    def deploymentPath = "E:\\AspMVC"
-                    def iisServer = "iis-server.example.com"
-                    def iisUser = "LAPTOP-M82Q6P4C\\hp"
-                    def iisPassword = "9079124953"
-                    def appPoolName = "Application"
-                    def siteName = "eCommerce"
-                    Copy-Item -Path "${publishDir}\\*" -Destination "${deploymentPath}" -Recurse -Force -Credential (New-Object PSCredential("${iisUser}", (ConvertTo-SecureString "${iisPassword}" -AsPlainText -Force)))
-                    Restart-WebAppPool -Name '${appPoolName}'
-                    Restart-WebItem -Path 'IIS://${iisServer}/${siteName}'
-                    
+
+                    publishDir="C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\DotNetPipeline\\publish"
+                    deploymentPath="E:\\AspMVC"
+                    iisServer="iis-server.example.com"
+                    iisUser="LAPTOP-M82Q6P4C\\hp"
+                    iisPassword="9079124953"
+                    appPoolName="Application"
+                    siteName="eCommerce"
+
+                    cp -r "${publishDir}"/* "${deploymentPath}"
+
+                    ssh ${iisUser}@${iisServer} "powershell -Command {
+                        Restart-WebAppPool -Name '${appPoolName}'
+                        Restart-WebItem -Path 'IIS://${iisServer}/${siteName}'
+                    }"    
                 }
             }
         }
