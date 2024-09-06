@@ -46,9 +46,9 @@ pipeline {
                     def iisPassword = "9079124953"
                     def appPoolName = "Application"
                     def siteName = "eCommerce"
-                    bat "Copy-Item -Path '${publishDir}\\*' -Destination '${deploymentPath}' -Recurse -Force -Credential (New-Object PSCredential('${iisUser}', (ConvertTo-SecureString '${iisPassword}' -AsPlainText -Force)))"
-                    bat "Restart-WebAppPool -Name '${appPoolName}'"
-                    bat "Restart-WebItem -Path 'IIS://${iisServer}/${siteName}'"
+                    Copy-Item -Path '${publishDir}\\*' -Destination '${deploymentPath}' -Recurse -Force -Credential (New-Object PSCredential('${iisUser}', (ConvertTo-SecureString '${iisPassword}' -AsPlainText -Force)))
+                    Restart-WebAppPool -Name '${appPoolName}'
+                    Restart-WebItem -Path 'IIS://${iisServer}/${siteName}'
                     
                 }
             }
