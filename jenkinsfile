@@ -1,6 +1,5 @@
 pipeline {
     agent any
-
     stages {
         stage('Checkout') {
             steps {
@@ -30,24 +29,18 @@ pipeline {
         stage('Deploy') {
             steps {
                 script {
+                   withCredentials([usernamePassword(credentialsId: 'iis-credentials', usernameVariable: 'IIS_USER', passwordVariable: 'IIS_PASSWORD')]) {
+                    powershell '''
+                  
+                    $securePassword = ConvertTo-SecureString $env.IIS_PASSWORD -AsPlainText -Force
+                    $credential = New-Object System.Management.Automation.PSCredential($env.IIS_USER, $securePassword)
 
-                    publishDir="C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\DotNetPipeline"
-                    deploymentPath="E:\\AspMVC"
-                    iisServer="iis-server.example.com"
-                    iisUser="LAPTOP-M82Q6P4C\\hp"
-                    iisPassword="9079124953"
-                    appPoolName="Application"
-                    siteName="eCommerce"
+                    New-PSDrive -Name X -PSProvider FileSystem -Root "E:\\AspMVC" -Persist -Credential $credential
+                   
+                    Copy-Item -Path 'publish\\*' -Destination 'X:\' -Force
 
-                    sh """
-                    cp -r "${publishDir}"\\* "${deploymentPath}"
-                    """                    
-                    sh """
-                    ssh ${iisUser}@${iisServer} "powershell -Command {
-                        Restart-WebAppPool -Name '${appPoolName}'
-                        Restart-WebItem -Path 'IIS://${iisServer}/${siteName}'
-                    }"
-                    """
+                   Remove-PSDrive -Name X
+                    '''
                 }
             }
         }
