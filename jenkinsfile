@@ -39,8 +39,8 @@ pipeline {
         stage('Deploy') {
             steps {
                 script {
-                    def publishDir = "C:\ProgramData\Jenkins\.jenkins\workspace\DotNetPipeline\publish"
-                    def deploymentPath = "E:\AspMVC"
+                    def publishDir = "C:\\ProgramData\Jenkins\.jenkins\workspace\DotNetPipeline\publish"
+                    def deploymentPath = "E:\\AspMVC"
                     def iisServer = "iis-server.example.com"
                     def iisUser = "LAPTOP-M82Q6P4C\hp"
                     def iisPassword = "9079124953"
