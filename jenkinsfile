@@ -31,7 +31,7 @@ pipeline {
             steps {
                 script {
 
-                    publishDir="C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\DotNetPipeline\\publish"
+                    publishDir="C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\DotNetPipeline"
                     deploymentPath="E:\\AspMVC"
                     iisServer="iis-server.example.com"
                     iisUser="LAPTOP-M82Q6P4C\\hp"
