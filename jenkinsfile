@@ -48,12 +48,15 @@ pipeline {
                     appPoolName="Application"
                     siteName="eCommerce"
 
-                    cp -r "${publishDir}"/* "${deploymentPath}"
-
+                    sh """
+                    cp -r "${publishDir}"\\* "${deploymentPath}"
+                    """                    
+                    sh """
                     ssh ${iisUser}@${iisServer} "powershell -Command {
                         Restart-WebAppPool -Name '${appPoolName}'
                         Restart-WebItem -Path 'IIS://${iisServer}/${siteName}'
-                    }"    
+                    }"
+                    """
                 }
             }
         }
