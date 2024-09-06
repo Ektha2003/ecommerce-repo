@@ -34,9 +34,7 @@ pipeline {
                   
                     $credential = New-Object System.Management.Automation.PSCredential($env:IIS_USER,(ConvertTo-SecureString $env:IIS_PASSWORD -AsPlainText -Force))
 
-                    $X= New-PSProvider FileSystem -Root "E:\\AspMVC" -Credential $credential
-                   
-                    Copy-Item -Path 'publish\\*' -Destination '$X:\' -Force
+                    Copy-Item -Path 'publish\\*' -Destination 'E:\\AspMVC' -Force
 
                     '''
                 }
