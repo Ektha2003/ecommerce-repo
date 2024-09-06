@@ -32,8 +32,7 @@ pipeline {
                    withCredentials([usernamePassword(credentialsId: 'iis-credentials', usernameVariable: 'IIS_USER', passwordVariable: 'IIS_PASSWORD')]) {
                     powershell '''
                   
-                    $securePassword = ConvertTo-SecureString $env.IIS_PASSWORD -AsPlainText -Force
-                    $credential = New-Object System.Management.Automation.PSCredential($env.IIS_USER, $securePassword)
+                    $credential = New-Object System.Management.Automation.PSCredential($env.IIS_USER,(ConvertTo-SecureString $env.IIS_PASSWORD -AsPlainText -Force))
 
                     New-PSDrive -Name X -PSProvider FileSystem -Root "E:\\AspMVC" -Persist -Credential $credential
                    
